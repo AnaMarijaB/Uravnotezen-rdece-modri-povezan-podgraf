@@ -4,3 +4,6 @@ def mreza(stol, vrst):
 		for y in range(stol):
 			all_nodes.append([y,x])
 	return all_nodes
+
+print('neki')
+print(mreza(3,4))
